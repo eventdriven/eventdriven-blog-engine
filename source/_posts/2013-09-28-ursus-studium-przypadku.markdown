@@ -22,8 +22,19 @@ do września 2013 r. dominowały sporadycznie publikowane (raz na ok. 2 tygodnie
 
 <p>W dniu 24.09.2013 sytuacja się odwróciła. Nastąpił wysyp wiadomości dot. URSUSa,  wszystkie główne portale giełdowe w polsce opublikowały 
 wiadomość (wiadomości), sam dysponuję linkiem do 18 wiadomości z wtorku 24.09.2013, o kontrakcie Ursusa na dostawę do Etiopii 3000 ciągników 
-za niebagatelną kwotę 90 mln USD 
-<strong>(NAPISAĆ JAK SIĘ MA KWOTA 90 MLN DO WSKAŹNIKÓW FUNDAMENTALNYCH, WARTOŚCI KSIĘGOWEJ, ILOŚĆ AKCJI * KURS ITP...)</strong>. Prawdopodobnie
+za niebagatelną kwotę 90 mln USD.
+
+Wartość tej transakcji to (przeliczając po dzisiejszym kursie dolara) 631%  kapitalizacji spółki (wartość wszystkich akcji) z momentu przed 
+poinformacyjnym dryfem ceny (jedna akcja = 1,66 zł). Wartość transakcji to 120% rocznych przychodów spółki ze sprzedaży w latach 2011 i 2012. 
+Generalne można uznać, że spółka podwoi swój dochód jeżeli utrzyma pozostałą sprzedaż na stałym poziomie, pod warunkiem, że kontrakt nie 
+wyczerpie całych zdolności produkcyjnych Ursusa. 
+
+Jeżeli marża spółki się utrzyma, to dochód ze sprzedaży za kontrakt osiągnie - jak nie trudno się domyśleć - około 120% wartości przychodu 
+z lat 2011 i 2012 (z każdego roku osobna, a nie z obu łącznie). Do tego oczywiście dojdą zyski ze sprzedaży poza kontraktem. 
+Można spróbować oszacować, ze sam przychód ze sprzedaży osiągnie 164% kapitalizacji sprzed wzrostu ceny lub 80% kapitalizacji 
+ze szczytu poinformacyjnego trendu cenowego.
+
+. Prawdopodobnie
 <a href="http://www.gpwinfostrefa.pl/GPWIS2/pl/index/news/info/532845,ursus-sa-zawarcie-umowy-na-dostawe-3-000-ciagnikow" rel="nofollow">
 pierwsza wiadomość o tym wydarzeniu w internecie</a> została opublikowana przez portal gpwinfostrefa.pl o godz. 12:20 
 (podane źródło biznes.pap.pl z 24.09.2013 12:20). Przytoczone fakty pozwalają 
@@ -41,3 +52,7 @@ końcem sesji 24.09.13 (preferowane zlecenie PKC) i sprzedać na zakończenie te
 niepożądane, co widac na poniższym wykresie ceny z kilku następujących po sobie dni.</p>
 {% img /images/urs_3.png 640 400 'URSUS zachowanie kursu po sesji 24.09.13' 'URSUS zachowanie kursu po sesji 24.09.13' %}
 <h3>Konkluzja</h3>
+Dobór spółek do portfela kierując się wiadomościami o pozytywnym sentymencie stanowi interesującą alternatywę dla wykorzystywanych 
+technik standardowej analizy technicznej i fundamentalnej. Studium przypadku przedstawione w tym artykule jest tylko interesującym przykładem,
+na naszym blogu będziemy publikować cały cykl artykułów poświęcony analizom przypadków ukazujących potencjał podejścia event driven.
+

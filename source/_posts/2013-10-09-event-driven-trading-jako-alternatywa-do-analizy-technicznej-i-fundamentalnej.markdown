@@ -2,6 +2,7 @@
 layout: post
 title: "Event driven trading jako alternatywa do analizy technicznej i fundamentalnej"
 date: 2013-10-09 18:09
+published: false
 comments: true
 categories: 
 ---

@@ -34,7 +34,7 @@ z lat 2011 i 2012 (z każdego roku osobna, a nie z obu łącznie). Do tego oczyw
 Można spróbować oszacować, ze sam przychód ze sprzedaży osiągnie 164% kapitalizacji sprzed wzrostu ceny lub 80% kapitalizacji 
 ze szczytu poinformacyjnego trendu cenowego.
 
-. Prawdopodobnie
+</p><p> Prawdopodobnie
 <a href="http://www.gpwinfostrefa.pl/GPWIS2/pl/index/news/info/532845,ursus-sa-zawarcie-umowy-na-dostawe-3-000-ciagnikow" rel="nofollow">
 pierwsza wiadomość o tym wydarzeniu w internecie</a> została opublikowana przez portal gpwinfostrefa.pl o godz. 12:20 
 (podane źródło biznes.pap.pl z 24.09.2013 12:20). Przytoczone fakty pozwalają 

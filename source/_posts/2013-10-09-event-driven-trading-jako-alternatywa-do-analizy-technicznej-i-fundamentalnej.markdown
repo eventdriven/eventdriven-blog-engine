@@ -31,7 +31,7 @@ Dużą zaletą techniki handlu sterowania zdarzeniami jest to, że jest banalnie
 specjalistycznej wiedzy z rynków finansowych oraz zasad działania analizy technicznej i fundamentalnej. Schemat lub algorytm postępowania 
 można streścić w zaledwie kilku zdaniach i wytłumaczyć go laikowi w parę minut. No to do dzieła, moja autorska propozycja strategii
 inwestycyjnej jest następująca
-<p><ol>
+<p><em>Początek strategii</em><ol>
   <li>Śledź na bieżąco wszystkie wiadomości giełdowe publikowane w internecie na temat wszystkich spółek giełdowych notowanych na danym rynku,
   np. na GPW,</li>
   <li>Jedyne wiadomości, które Cię interesują i wymagają od Ciebie przeczytania czegoś więcej niż nagłówka to wiadomości o ewidentnych i dużych
@@ -44,7 +44,7 @@ inwestycyjnej jest następująca
   zachowanie notowań spółki <em>X</em> jest odmienne od zamierzonego poczekaj maksymalnie ustalony okres (np. 1 miesiąc) trzymając cały czas 
   otwarte zlecenie sprzedaży po cenie wyższej o ustalony procent (np. 10%) od ceny zakupu.</li>
   <li>Jeżeli akcje nie zostały sprzedane po tym jak minął ustalony okres czasu (np. 1 miesiąc) sprzedaj akcje PKC niezależnie od kursu. </li>
-</ol></p>
+</ol><em>Koniec strategii</em></p>
 
 Reasumując jest to z całą pewnością nowa technika i bardzo mało rozpowszechniona, ale czy na pewno jest jednocześnie godna uwagi? 
 Zostanie to zweryfikowane z czasem, natomiast napewno z wykorzystaniem tej techniki łączy się bardzo dużo szans. Przedstawię je w następnej sekcji.

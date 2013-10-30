@@ -5,21 +5,79 @@ date: 2013-10-09 18:09
 published: false
 comments: true
 categories: 
+author: Dżako
 ---
 <h2>Wstęp</h2>
-Artykul ten dotyczy technik podejmowania decyzji inwestycyjnych na giełdzie. 
-Celem jest porównanie standardowo wykorzystywanych analiz technicznej i fundamentalnej z nowatorskim podejsciem okreslanym jako tzw. 
-"Event Driven Trading". 
+Celem niniejszego artykułu jest przedstawienie perspektyw i zagrożeń nowatorskiego podejścia do inwestowania na giełdzie określanego mianem 
+handlu sterowanego zdarzeniami, czyli <i>Event Driven Trading</i>.
 
-<h2>Analiza techniczna i fundamentalna</h2>
+<h2>Klasyka: Analiza techniczna i fundamentalna</h2>
+Obecnie większość inwestorów giełdowych w poejmowaniu decyzji inwestycyjnych kieruje się analizą techniczą lub analizą fundamentalną. 
+Są to dzisiaj prawdopodobnie najpopularniejsze stategie inwestycyjne. Literatura dotycząca tej tematyki jest bardzo bogata, dla przykładu w
+księgarni internetowej maklerska.pl znajduje się 40 pozycji dotyczących analizy fundamentalnej oraz 32 pozycje dotyczące analizy technicznej.
+Pisanie artykułu na temat analizy technicznej bądź fundamentalnej byłoby tylko powtarzaniem zawartości istniejącej literatury. 
 
+Dlatego w tym miejscu pozostaje mi odesłać czytelnika do wszystkowiedzącego google.com i wpisanie fraz "analiza techniczna" i "analiza 
+fundamentalna" ("analiza techniczna" zwraca Około 1 280 000 wyników, "analiza fundamentalna" zwraca Około 265 000 wyników) 
+- stan na dzień 30.10.2013.
 
-<h2>Event Driven Trading</h2>
+<h2>Nowatorstwo: Handel sterowany zdarzeniami</h2>
 
+Co ciekawe hasło "Handel sterowany zdarzeniami" należy do nielicznego grona fraz o której google (polska wersja językowa) nie wie NIC (stan 
+na 30.10.2013). Wpisanie tego hasła skutkuje treściwym komunikatem "Nie znaleziono żadnych wyników wyszukiwania dla hasła "Handel sterowany 
+zdarzeniami"". Być może nawet ten artykuł, który czytasz jest pierwszym na ten temat w całym polskim internecie. 
+
+Dużą zaletą techniki handlu sterowania zdarzeniami jest to, że jest banalnie prosta w wykonaniu i w podstawowej wersji nie wymaga w ogóle
+specjalistycznej wiedzy z rynków finansowych oraz zasad działania analizy technicznej i fundamentalnej. Schemat lub algorytm postępowania 
+można streścić w zaledwie kilku zdaniach i wytłumaczyć go laikowi w parę minut. No to do dzieła, moja autorska propozycja strategii
+inwestycyjnej jest następująca
+<p><ol>
+  <li>Śledź na bieżąco wszystkie wiadomości giełdowe publikowane w internecie na temat wszystkich spółek giełdowych notowanych na danym rynku,
+  np. na GPW,</li>
+  <li>Jedyne wiadomości, które Cię interesują i wymagają od Ciebie przeczytania czegoś więcej niż nagłówka to wiadomości o ewidentnych i dużych
+  sukcesach spółek. Może Ci się wydawać, że tutaj jest wymagana jakaś wiedza aby dobrze sklasyfikować wiadomości, natomiast tak naprawdę 
+  brak wiedzy Cię nie przekreśla, na początek można np. skupić się na dużych wydarzeniach szeroko komentowanych w mediach o jednoznacznym
+  pozytywnym sentymencie, np. ogromne kontrakty i wyniki finansowe z raportu dużo lepsze od oczekiwań.</li>
+  <li>Jeżeli została opublikowana wiadomość dot. spółki <em>X</em> o której mowa w poprzednim punkcie dokonaj zakupu akcji spółki <em>X</em> po 
+  cenie rynkowej.</li>
+  <li>Sprzedaj akcje tej spółki w ten sam dzień, jeżeli notowania spółki <em>X</em> wzrosły w znaczący sposób (np. 10%). Natomiast jeżeli 
+  zachowanie notowań spółki <em>X</em> jest odmienne od zamierzonego poczekaj maksymalnie ustalony okres (np. 1 miesiąc) trzymając cały czas 
+  otwarte zlecenie sprzedaży po cenie wyższej o ustalony procent (np. 10%) od ceny zakupu.</li>
+  <li>Jeżeli akcje nie zostały sprzedane po tym jak minął ustalony okres czasu (np. 1 miesiąc) sprzedaj akcje PKC niezależnie od kursu. </li>
+</ol></p>
+
+Reasumując jest to z całą pewnością nowa technika i bardzo mało rozpowszechniona, ale czy na pewno jest jednocześnie godna uwagi? 
+Zostanie to zweryfikowane z czasem, natomiast napewno z wykorzystaniem tej techniki łączy się bardzo dużo szans. Przedstawię je w następnej sekcji.
 
 <h2>Perspektywy</h2>
+Powszechnie jest wiadomo, że wiadomości mają wpływ na zachowanie się giełdy, m.in. zostało zweryfikowane, że wiadomości o pozytywnym wydźwięku
+dot. danej spółki powodują statystycznie wzrost notowań danej spółki 
+[A. C MacKinlay, "Event Studies in Economics and Finance", Journal of Economic Literature, Vol. 35, No. 1. (Mar., 1997), pp. 13-39]. 
+Należy zatem oczekiwać pozytywnej wartości oczekwanej stopy zwrotu z zastosowania opisanej strategii.
 
+Co bardzo istotne należy się spodziewać, że opisana strategia będzie doprowadzać do pozytywnej stopy zwrotu z inwestycji niezależnie od 
+koniunktury i ogólnej formy gospodarki. Motywuje to fakt, że zawsze są sektory lub branże gospodarki, które radzą sobie lepiej od innych. 
+Spółki z tej branży publikują bardzo dobre raporty finansowe.
 
-<h2>Konkluzja</h2>
+Strategia w przedstawionej formie, zdaje się wymagać poświęcenia ogromnej ilości czasu. Staranne wykonanie kroku <b>1.</b> przez inwestora 
+chcącego zastosować strategię wymaga ciągłej obecności przy komputerze w trakcie trwania wszystkich sesji notowań spółek na rynku w celu
+przeglądania na bieżąco wszystkich nagłówków wiadomości napływających z giełdy. Jest to ogrom pracy na który żaden inwestor pracujący na 
+etacie nie może sobie pozwolić. 
+
+Rozwiązanie tego problemu jest oczywiste. Powiedzmy, że dysponujemy komputerowym algorytmem, który 24 godziny na dobę skanuje internet i
+analizuje wszystkie informacje spływające z giełdy, następnie powiadamia inwestora o spółkach od których napływają bardzo pozytywne sygnały. 
+Inwestor po otrzymaniu takiej informacji może (ale nie musi) dokonać zakupu akcji tej spółki.
+
+Mniej oczywiste jest opracowanie i zaimplementowanie takiego algorytmu. Warto zaznaczyć, że stowrzenia komputerowego algorytmu wspomagającego 
+handel sterowany zdarzeniami podjęli się właściciele serwisu wig24.pl, gdzie docelowo powstanie serwis dedykowany inwestorom chcącym stosować, 
+lub tylko sprówbować nowatorskiej strategii inwestycyjnej. 
+
+<h2>Zagrożenia</h2>
+Niestety, nie ma róży bez kolców, strategia handlu sterowanego zdarzeniami niesie ze sobą kilka potencjalnych zagrożeń dla inwestorów. 
+Wymienię dwa zagrożenia, które wydają się dla mnie najważniejsze. Po pierwsze, na rynku okazje inwestycyjne mogą być po prostu nieobecne nawet
+przez dłuższy czas. W konsekwencji strategia ta powinna być traktowana jako krótkoterminowa spekulacja, nie nadaje się do systematycznego
+oszczędzania. Dla inwestorów, którym zależy na systematycznym oszczędzaniu lepsza będzie lokata bankowa o gwarantowanym zysku. 
+Po drugie, inwestowanie odbywa się nieregularnie - dlatego wymagany jest w miarę możliwości ciągły dostęp do konta maklerskiego i szybkiego 
+łącza, ponieważ bardzo istotna jest tutaj szybkość reakcji.
 
 
